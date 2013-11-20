@@ -1,0 +1,12 @@
+Protocols:
+- Declares methods that can be implemented by any class.
+- The file is a .h file. There is no implementation file.
+- Objects adopting the protocol should implement all the methods in the protocol.
+- Implementing multiple protocols is possible
+
+
+Subclassing:
+- Declares and defines methods and variables which can be inherited by other classes.
+- Needs both interface and implementation file.
+- Need not implement all the methods, in case of non-implementation, the base class method is invoked.
+- Multiple inheritance is not allowed.
