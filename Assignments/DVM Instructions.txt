@@ -1,0 +1,27 @@
+DVM Instructions:
+
+Name:	move vx,vy
+Syntax:	move v0,v1
+Ex:	move r0,r1
+Moves register r0 to r1
+
+Name:	return-void
+Syntax:	return-void
+Ex:	return-void
+Return without a value
+
+Name:	return-object vx
+Syntax:	return-object v0
+Ex:	return-object v0
+Return with object vx reference value
+
+Name:	const vx, lit32
+Syntax:	const v0, lit32
+Ex:	const v0, #12345678 // #00BC614E
+Puts the integer constant into vx
+
+Name:	goto target
+Syntax:	goto target
+Ex:	goto 0005
+Unconditional jump by short offset
+
