@@ -1,0 +1,13 @@
+Context awareness is a property of mobile devices that is defined complementary to location awareness. Whereas location may determine how certain processes in a device operate, context may be applied more flexibly with mobile users, especially with users of smart phones. -Wikipedia
+
+The platform implications of all this context: always-on sensing and computing, that doesn't work only when you're directly interacting with it; low-power sensors and I/O so they may run efficiently all the time; effective workload partitioning; and optimized primitives. - Rattner, CTO, Intel
+
+Ex. Fitness tracker : 
+-Using location informtation knows the distance walked / jogged and hence calories burnt.
+-Additional sensors monitor heart rate and blood pressure.
+-Entering food and quantity would give calories consumed.
+-During workout in the gym, calculates the time and intensity of the exercise.
+
+
+
+
