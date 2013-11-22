@@ -1,13 +1,7 @@
 Mobile Computing vs Cloud computing
 
-M
-C
+Mobile computing - The same device needs to be carried around. Device is portable. Internet is not necessarily needed. Data residing on the device is always available. But the device itself has few limitations.
+Mobile computing integrated with cloud gives great results.
 
-M
-C
-
-M
-C
-
-M - The same device needs to be carried around. Device is portable.
-C - The data is portable, can be accessed from anywhere.
+Cloud computing - The data is portable, can be accessed from anywhere. But a device is needed to access the data. Internet services are needed to access files.
+Mainly of use in distributed computing. 
